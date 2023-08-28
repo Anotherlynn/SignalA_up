@@ -288,8 +288,7 @@ conda install -n your_env_nam requirements.txt # 或 pip install -r requirements
 ## 后续要做
 1. 数据源的扩充
    - 稀疏的临时公告--> 加入公司新闻+行业新闻+股吧文本
-   - 示例：![E9920BF4-9460-4ce7-9F59-1258E6012EBF.png](E9920BF4-9460-4ce7-9F59-1258E6012EBF.png)
-   - ![wordcloud000056_8.png](result%2Fwordcloud000056_8.png)
+   - 示例：![E9920BF4-9460-4ce7-9F59-1258E6012EBF.png](./img2.png)
    - 添加白噪声
    
 
