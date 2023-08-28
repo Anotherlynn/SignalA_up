@@ -247,34 +247,30 @@ conda install -n your_env_nam requirements.txt # 或 pip install -r requirements
             <td>再融资</td>
           </tr>
           <tr>
-            <td>业绩预告</td>
-            <td>交易所公开信息</td>
-            <td>再融资</td> 
-          </tr>
-          <tr>
             <td>股权激励</td>
+            <td>交易所公开信息</td>
             <td>关联交易</td>
-            <td>担保</td> 
           </tr>
           <tr>
             <td>退市风险</td>
             <td>新项目开展</td>
-            <td>现金管理</td> 
+            <td>担保</td>
           </tr>
           <tr>
             <td>会计政策变更</td>
             <td>人员聘请</td>
-            <td>审计保留意见</td> 
+            <td>现金管理</td>
           </tr>
           <tr>
-            <td>IPO</td>
             <td>变更信息</td>
-            <td>内部控制</td> 
+            <td>IPO</td>
+            <td>审计保留意见</td>
           </tr>
           <tr>
-            <td>会计政策变更</td>
-            <td>人员聘请</td>
-            <td>审计保留意见</td> 
+            <td>异常波动</td>
+            <td>变更信息</td>
+            <td>内部控制</td>
+          </tr>
           </tr>
         </tbody>
     </table>
